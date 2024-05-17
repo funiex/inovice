@@ -1,0 +1,112 @@
+thead {
+    margin: 0%;
+    text-align:start;
+    color: black;
+    padding:1%;
+  
+  
+  }
+  .top.td{
+    padding: 2%;
+  }
+
+  
+  .main {
+  
+    display: flex;
+    justify-content: center;
+  
+  }
+  
+  
+h3{
+  text-align: end;
+  margin: 34px 4px 0px 0px;
+}
+  
+  tfoot {
+    background-color:#fff;
+    text-align: start;
+    color: black;
+    border: none;
+    
+  }
+  
+  tbody {
+    background-color: #fff;
+    text-align: center;
+  }
+  #object1{
+    width: 219px;
+    height: 112px;
+    margin: -10px 0px 0px 691px;
+    object-fit: none;
+    object-position: center top;
+}
+  
+  
+  h4{
+   
+    margin: -8px 66px 10px -15px;
+    color: #3a3939;
+    padding: 0px 8px 0px 8px;
+}
+.data{
+  padding-bottom: 123px;
+   
+ }
+    
+ 
+ .data2{
+  
+  padding: 9px 0px 47px 15px;
+  color:black;
+   
+ }
+  
+
+  
+  
+  table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    width: 70%;
+ 
+    margin-left: 24%;
+    margin-top: -0.5%;
+    
+    
+  }
+
+  
+  
+  
+  h1, h2 ,h5{
+     text-align:center;
+     font-size: 1rem;
+     margin: 0px -194px 8px 0px;
+    color:rgb(66, 65, 65);
+  }
+  th,
+  td {
+    border: 1px solid rgb(160 160 160);
+    padding: 1%;
+    margin: 0%;
+   
+  }
+  
+  td {
+    text-align: start;
+   
+ 
+  }
+  h1{
+    text-align:end;
+    font-size: 1rem;
+    margin: 2px -2px 8px 0px;
+   color:rgb(66, 65, 65);
+ }
+  
+  
